@@ -1,7 +1,7 @@
 import { action } from "@storybook/addon-actions";
 import { ComponentMeta, ComponentStory } from "@storybook/react";
 import React, { Children, useRef, useState } from "react";
-import Input from "../../../src/components/Input";
+import Input from "../Input";
 
 export default {
   title: "components/Input",

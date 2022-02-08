@@ -1,6 +1,6 @@
 import React from "react";
 import { ComponentMeta, ComponentStory, Meta, Story } from "@storybook/react";
-import { Button, Props } from "../../../src/components/Button";
+import { Button, Props } from "../Button";
 import { action } from "@storybook/addon-actions";
 import { withKnobs, text, boolean } from "@storybook/addon-knobs";
 
